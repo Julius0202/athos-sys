@@ -1,6 +1,6 @@
 # athos-sys
 Group Members:
-Julius Cezar Gutierrez
+Leader: Julius Cezar Gutierrez
 John Patrick Villanueva
 Ivy Austria
 Micah Pasion
